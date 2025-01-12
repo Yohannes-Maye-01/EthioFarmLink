@@ -18,8 +18,6 @@ FarmLink Ethiopia is an innovative platform connecting farmers, suppliers, and b
 - **Hosting**: Deployed on [Vercel](https://vercel.com/) for fast and reliable performance.
 
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 Contact
 For questions, suggestions, or feedback, please reach out:
