@@ -5,11 +5,12 @@ export default function About() {
   return (
     <div className="container mx-auto px-4 py-16">
       <h1 className="text-3xl font-bold text-center mb-8">About FarmLink</h1>
-
+<h1>good job Lorem ipsum dolor sit, amet consectetur adipisicing elit. Numquam aspernatur, commodi suscipit, porro voluptatibus hic alias provident beatae, quam omnis repellendus ipsum quae temporibus cumque accusantium voluptate aut adipisci nesciunt!</h1>
       <section className="mb-12">
         <h2 className="text-2xl font-semibold">What is FarmLink?</h2>
         <p className="mt-4 text-lg">
           FarmLink is a digital marketplace dedicated to connecting farmers across Ethiopia with local and global markets. We empower farmers with the tools and resources they need to thrive in the agricultural sector.
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem eveniet ipsam delectus exercitationem, deleniti inventore nam at dolorum reiciendis esse sint molestiae itaque dicta quisquam non totam officiis perferendis voluptate!
         </p>
       </section>
 
