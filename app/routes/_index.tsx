@@ -14,7 +14,7 @@ export default function Index() {
 
     </div>
     
-     
+    <div>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sapiente quod asperiores aspernatur animi tempore! Culpa, qui quidem, dolores at vel inventore quibusdam sapiente nam adipisci distinctio eos nostrum est atque!</div>
    
 
 
