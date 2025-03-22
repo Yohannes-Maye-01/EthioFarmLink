@@ -25,6 +25,16 @@ export default function Signup() {
             placeholder="Enter your full name"
           />
         </div>
+        <div>
+          <label htmlFor="name" className="block text-lg font-medium">Full Name</label>
+          <input
+            id="name"
+            type="text"
+            required
+            className="w-full px-4 py-2 border rounded-md"
+            placeholder="Enter your full name"
+          />
+        </div>
 
         <div>
           <label htmlFor="email" className="block text-lg font-medium">Email Address</label>
