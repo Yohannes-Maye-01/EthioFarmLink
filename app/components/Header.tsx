@@ -21,7 +21,38 @@ export default function Header() {
          <Link to="/about" className="hover:underline hover:underline-offset-8 hover:decoration-2 hover:decoration-sky-500 hover:decoration-4 hover:text-sky-500">About</Link>
          <Link to="/contact" className="hover:underline hover:underline-offset-8 hover:decoration-2 hover:decoration-sky-500 hover:decoration-4 hover:text-sky-500">Contact</Link>
        </nav>
-
+ <nav className="flex space-x-4 group items-center" >
+       <h1 className="w-[80px] h-[80px] rounded-full">
+        <img src="LOGO.png" alt="logo" className='rounded-full shadow-2xl w-[80px] h-[80px]' /></h1>
+         <Link to="/" className="hover:underline hover:underline-offset-8 hover:decoration-2 hover:decoration-sky-500 hover:decoration-4 hover:text-sky-500">Home</Link>
+         <Link to="/services" className="hover:underline hover:underline-offset-8 hover:decoration-2 hover:decoration-sky-500 hover:decoration-4 hover:text-sky-500">Services</Link>
+         <Link to="/about" className="hover:underline hover:underline-offset-8 hover:decoration-2 hover:decoration-sky-500 hover:decoration-4 hover:text-sky-500">About</Link>
+         <Link to="/contact" className="hover:underline hover:underline-offset-8 hover:decoration-2 hover:decoration-sky-500 hover:decoration-4 hover:text-sky-500">Contact</Link>
+       </nav>
+        <nav className="flex space-x-4 group items-center" >
+       <h1 className="w-[80px] h-[80px] rounded-full">
+        <img src="LOGO.png" alt="logo" className='rounded-full shadow-2xl w-[80px] h-[80px]' /></h1>
+         <Link to="/" className="hover:underline hover:underline-offset-8 hover:decoration-2 hover:decoration-sky-500 hover:decoration-4 hover:text-sky-500">Home</Link>
+         <Link to="/services" className="hover:underline hover:underline-offset-8 hover:decoration-2 hover:decoration-sky-500 hover:decoration-4 hover:text-sky-500">Services</Link>
+         <Link to="/about" className="hover:underline hover:underline-offset-8 hover:decoration-2 hover:decoration-sky-500 hover:decoration-4 hover:text-sky-500">About</Link>
+         <Link to="/contact" className="hover:underline hover:underline-offset-8 hover:decoration-2 hover:decoration-sky-500 hover:decoration-4 hover:text-sky-500">Contact</Link>
+       </nav>
+        <nav className="flex space-x-4 group items-center" >
+       <h1 className="w-[80px] h-[80px] rounded-full">
+        <img src="LOGO.png" alt="logo" className='rounded-full shadow-2xl w-[80px] h-[80px]' /></h1>
+         <Link to="/" className="hover:underline hover:underline-offset-8 hover:decoration-2 hover:decoration-sky-500 hover:decoration-4 hover:text-sky-500">Home</Link>
+         <Link to="/services" className="hover:underline hover:underline-offset-8 hover:decoration-2 hover:decoration-sky-500 hover:decoration-4 hover:text-sky-500">Services</Link>
+         <Link to="/about" className="hover:underline hover:underline-offset-8 hover:decoration-2 hover:decoration-sky-500 hover:decoration-4 hover:text-sky-500">About</Link>
+         <Link to="/contact" className="hover:underline hover:underline-offset-8 hover:decoration-2 hover:decoration-sky-500 hover:decoration-4 hover:text-sky-500">Contact</Link>
+       </nav>
+        <nav className="flex space-x-4 group items-center" >
+       <h1 className="w-[80px] h-[80px] rounded-full">
+        <img src="LOGO.png" alt="logo" className='rounded-full shadow-2xl w-[80px] h-[80px]' /></h1>
+         <Link to="/" className="hover:underline hover:underline-offset-8 hover:decoration-2 hover:decoration-sky-500 hover:decoration-4 hover:text-sky-500">Home</Link>
+         <Link to="/services" className="hover:underline hover:underline-offset-8 hover:decoration-2 hover:decoration-sky-500 hover:decoration-4 hover:text-sky-500">Services</Link>
+         <Link to="/about" className="hover:underline hover:underline-offset-8 hover:decoration-2 hover:decoration-sky-500 hover:decoration-4 hover:text-sky-500">About</Link>
+         <Link to="/contact" className="hover:underline hover:underline-offset-8 hover:decoration-2 hover:decoration-sky-500 hover:decoration-4 hover:text-sky-500">Contact</Link>
+       </nav>
 
        {/* Login & Signup */}
        <div className="flex space-x-4 ">
