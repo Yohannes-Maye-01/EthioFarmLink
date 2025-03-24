@@ -21,13 +21,6 @@ export default function About() {
       </section>
 
       <section className="mb-12">
-        <h2 className="text-2xl font-semibold">The Problem We Solve</h2>
-        <p className="mt-4 text-lg">
-          Ethiopian farmers often face challenges such as limited access to markets, low profitability, and lack of resources. FarmLink addresses these challenges by providing a platform that connects farmers with buyers, and offers them access to critical agricultural resources.
-        </p>
-      </section>
-
-      <section className="mb-12">
         <h2 className="text-2xl font-semibold">How FarmLink Works</h2>
         <ul className="list-disc pl-8 mt-4 text-lg">
           <li>Farmers can list their products for sale on the marketplace.</li>
