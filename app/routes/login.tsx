@@ -51,19 +51,7 @@ export default function Login() {
           />
         </div>
 
-        <div className="mb-4">
-          <label htmlFor="password" className="block text-lg font-medium">Password</label>
-          <input
-            id="password"
-            type="password"
-            name="password"
-            value={password}
-            onChange={(e) => setPassword(e.target.value)}
-            className="w-full px-4 py-2 border rounded-md mt-2"
-            required
-            placeholder="Your password"
-          />
-        </div>
+      
 
         <div className="flex justify-between items-center">
           <button
