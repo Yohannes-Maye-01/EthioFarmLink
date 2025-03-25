@@ -6,12 +6,6 @@ export default function About() {
     <div className="container mx-auto px-4 py-16">
       <h1 className="text-3xl font-bold text-center mb-8">About FarmLink</h1>
 
-      <section className="mb-12">
-        <h2 className="text-2xl font-semibold">What is FarmLink?</h2>
-        <p className="mt-4 text-lg">
-          FarmLink is a digital marketplace dedicated to connecting farmers across Ethiopia with local and global markets. We empower farmers with the tools and resources they need to thrive in the agricultural sector.
-        </p>
-      </section>
 
       <section className="mb-12">
         <h2 className="text-2xl font-semibold">Our Mission</h2>
