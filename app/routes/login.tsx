@@ -52,14 +52,6 @@ export default function Login() {
         </div>
 
       
-
-        <div className="flex justify-between items-center">
-          <button
-            type="submit"
-            className="w-full bg-green-500 text-white px-4 py-2 rounded-full text-lg font-semibold hover:bg-green-600 transition"
-          >
-            Login
-          </button>
         </div>
       </Form>
 
