@@ -54,11 +54,7 @@ export default function Header() {
          <Link to="/contact" className="hover:underline hover:underline-offset-8 hover:decoration-2 hover:decoration-sky-500 hover:decoration-4 hover:text-sky-500">Contact</Link>
        </nav>
 
-       {/* Login & Signup */}
-       <div className="flex space-x-4 ">
-         <Link to="/login" className="hover:underline hover:underline-offset-8 hover:decoration-2 hover:decoration-sky-500 hover:decoration-4 hover:text-sky-500">LogIn</Link>
-         <Link to="/signup" className="hover:underline hover:underline-offset-8 hover:decoration-2 hover:decoration-sky-500 hover:decoration-4 hover:text-sky-500">Sign Up</Link>
-       </div>
+      
 
      </div>
 
