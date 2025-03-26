@@ -10,21 +10,7 @@ export default function Login() {
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
 
-    // Example form validation
-    if (!email || !password) {
-      setErrorMessage('Both fields are required!');
-      return;
-    }
 
-    // You would add your login logic here (API request, authentication)
-    // For now, let's just log the credentials
-    console.log('Login attempt:', { email, password });
-
-    // Reset error message if credentials are valid
-    setErrorMessage('');
-    
-    // Redirect or perform login actions here
-  };
 
   return (
     <div className="container mx-auto px-4 py-16 max-w-sm">
