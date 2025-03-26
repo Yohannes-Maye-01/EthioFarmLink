@@ -30,11 +30,7 @@ export default function About() {
         </p>
       </section>
 
-      <section className="mb-12">
-        <h2 className="text-2xl font-semibold">Join Us</h2>
-        <p className="mt-4 text-lg">
-          Whether you're a farmer looking to reach more customers or a buyer interested in locally sourced products, FarmLink is here to help. Join us today and be a part of the future of agriculture in Ethiopia.
-        </p>
+     
       </section>
     </div>
   );
