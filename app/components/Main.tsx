@@ -24,34 +24,8 @@ export default function Main() {
     <div style={{ fontFamily: "system-ui, sans-serif", padding: "2rem" }}>
       <h1>{message}</h1>
       <p>Today's date is: {date}</p>
-      <nav>
-        <ul>
-          <li>
-            <Link to="/">Home</Link>
-          </li>
-          <li>
-            <Link to="/about">About</Link>
-          </li>
-           <li>
-            <Link to="/">Home</Link>
-          </li>
-          <li>
-            <Link to="/about">About</Link>
-          </li>
-           <li>
-            <Link to="/">Home</Link>
-          </li>
-          <li>
-            <Link to="/about">About</Link>
-          </li>
-           <li>
-            <Link to="/">Home</Link>
-          </li>
-          <li>
-            <Link to="/about">About</Link>
-          </li>
-        </ul>
-      </nav>
+
+    
     </div>
   );
 }
