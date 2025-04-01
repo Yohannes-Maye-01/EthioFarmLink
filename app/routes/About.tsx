@@ -14,14 +14,6 @@ export default function About() {
         </p>
       </section>
 
-      <section className="mb-12">
-        <h2 className="text-2xl font-semibold">How FarmLink Works</h2>
-        <ul className="list-disc pl-8 mt-4 text-lg">
-          <li>Farmers can list their products for sale on the marketplace.</li>
-          <li>Buyers can browse and purchase local agricultural products directly from farmers.</li>
-          <li>We provide educational resources and tools to help farmers improve their farming practices.</li>
-        </ul>
-      </section>
 
       <section className="mb-12">
         <h2 className="text-2xl font-semibold">Our Team</h2>
