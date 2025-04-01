@@ -7,12 +7,6 @@ export default function About() {
       <h1 className="text-3xl font-bold text-center mb-8">About FarmLink</h1>
 
 
-      <section className="mb-12">
-        <h2 className="text-2xl font-semibold">Our Mission</h2>
-        <p className="mt-4 text-lg">
-          Our mission is to empower Ethiopian farmers by providing access to better markets, resources, and opportunities to grow, sell, and succeed in the agricultural sector.
-        </p>
-      </section>
 
 
       <section className="mb-12">
